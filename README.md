@@ -1,2 +1,5 @@
 # Python-Scripts
-Implementation of LLMs
+Implementation of Deep learning
+
+Pytorch 
+numpy
